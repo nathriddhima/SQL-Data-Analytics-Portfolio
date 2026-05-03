@@ -151,10 +151,10 @@ SOURCE SQL_EDA_Project.sql;
 
 ---
 
-## 📬 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/riddhima-nath/)
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/riddhima.nath)
-- 🐍 [IPO EDA Project](https://github.com/nathriddhima/Indian-IPO-EDA)
+##  Connect With Me
+-  [LinkedIn](https://www.linkedin.com/in/riddhima-nath/)
+-  [Tableau Public](https://public.tableau.com/app/profile/riddhima.nath)
+-  [IPO EDA Project](https://github.com/nathriddhima/Indian-IPO-EDA)
 
 ---
 *This project was created as part of my Data Analytics portfolio following industry-standard SQL practices.*
